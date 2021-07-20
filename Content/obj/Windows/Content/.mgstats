@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/Avion_IDLE.png","D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/bin/Windows/Content/Avion_IDLE.xnb","TextureProcessor","Texture2DContent",6681,126445,0,2769412
+"D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/avion_Piloto_de_2.png","D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/bin/Windows/Content/avion_Piloto_de_2.xnb","TextureProcessor","Texture2DContent",2665,14229,0,0020004
+"D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/avion_Piloto_IDLE.png","D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/bin/Windows/Content/avion_Piloto_IDLE.xnb","TextureProcessor","Texture2DContent",2303,14229,0,003001
+"D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/avion_Piloto_IZ_2.png","D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/bin/Windows/Content/avion_Piloto_IZ_2.xnb","TextureProcessor","Texture2DContent",2663,14229,0,0050016
+"D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/bala.png","D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/bin/Windows/Content/bala.xnb","TextureProcessor","Texture2DContent",1495,985,0,0020019
+"D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/enemigo_1.png","D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/bin/Windows/Content/enemigo_1.xnb","TextureProcessor","Texture2DContent",1653,1377,0,0010014
+"D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/File.spritefont","D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/bin/Windows/Content/Fuente.xnb","FontDescriptionProcessor","SpriteFontContent",2018,21521,0,3450041
+"D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/mar.png","D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/bin/Windows/Content/mar.xnb","TextureProcessor","Texture2DContent",99611,3640085,0,1670016
+"D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/pum_nave_chica.png","D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/bin/Windows/Content/pum_nave_chica.xnb","TextureProcessor","Texture2DContent",1484,1109,0,001002
+"D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/pum_nave_Grande.png","D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/bin/Windows/Content/pum_nave_Grande.xnb","TextureProcessor","Texture2DContent",3580,126445,0,0050043

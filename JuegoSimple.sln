@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuegoSimple", "JuegoSimple.csproj", "{CC125F06-0299-4159-A77A-F2E2FCA20BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC125F06-0299-4159-A77A-F2E2FCA20BD7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CC125F06-0299-4159-A77A-F2E2FCA20BD7}.Debug|x86.ActiveCfg = Debug|x86
+		{CC125F06-0299-4159-A77A-F2E2FCA20BD7}.Debug|x86.Build.0 = Debug|x86
+		{CC125F06-0299-4159-A77A-F2E2FCA20BD7}.Release|Any CPU.ActiveCfg = Release|x86
+		{CC125F06-0299-4159-A77A-F2E2FCA20BD7}.Release|x86.ActiveCfg = Release|x86
+		{CC125F06-0299-4159-A77A-F2E2FCA20BD7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3143678-94A4-4AE1-B1CF-E426F211635A}
+	EndGlobalSection
+EndGlobal

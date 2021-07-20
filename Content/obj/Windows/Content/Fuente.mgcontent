@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/File.spritefont</SourceFile>
+  <SourceTime>2021-06-02T12:49:15.3248577-03:00</SourceTime>
+  <DestFile>D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/bin/Windows/Content/Fuente.xnb</DestFile>
+  <DestTime>2021-07-20T17:06:06.2800376-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T13:35:54-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T13:35:54-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

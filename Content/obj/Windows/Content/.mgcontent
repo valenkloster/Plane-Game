@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/Avion_IDLE.png</File>
+    <File>D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/avion_Piloto_de_2.png</File>
+    <File>D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/avion_Piloto_IDLE.png</File>
+    <File>D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/avion_Piloto_IZ_2.png</File>
+    <File>D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/bala.png</File>
+    <File>D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/enemigo_1.png</File>
+    <File>D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/File.spritefont</File>
+    <File>D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/mar.png</File>
+    <File>D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/pum_nave_chica.png</File>
+    <File>D:/Valentina/Descargas/JuegoSimple/JuegoSimple/Content/pum_nave_Grande.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Fuente.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

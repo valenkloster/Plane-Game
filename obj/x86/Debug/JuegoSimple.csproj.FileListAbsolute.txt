@@ -1,0 +1,99 @@
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\obj\x86\Debug\JuegoSimple.csproj.CoreCompileInputs.cache
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\Content\Avion_IDLE.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\JuegoSimple.exe
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\JuegoSimple.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\SharpDX.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\SharpDX.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\obj\x86\Debug\JuegoSimple.csproj.CopyComplete
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\obj\x86\Debug\JuegoSimple.exe
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\obj\x86\Debug\JuegoSimple.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\Content\mar.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\Content\avion_Piloto_IDLE.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\Content\avion_Piloto_IZ_2.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\Content\avion_Piloto_de_2.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\Content\enemigo_1.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\Content\pum_nave_chica.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\Content\pum_nave_Grande.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\Content\bala.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\obj\x86\Debug\JuegoSimple.csprojAssemblyReference.cache
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 10 -TP videojuego\Proyectos\JuegoSimple\bin\Windows\x86\Debug\Content\Fuente.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\Content\Avion_IDLE.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\Content\avion_Piloto_de_2.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\Content\avion_Piloto_IDLE.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\Content\avion_Piloto_IZ_2.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\Content\bala.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\Content\enemigo_1.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\Content\Fuente.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\Content\mar.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\Content\pum_nave_chica.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\Content\pum_nave_Grande.xnb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\JuegoSimple.exe
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\JuegoSimple.pdb
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\SharpDX.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\SharpDX.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\obj\x86\Debug\JuegoSimple.csprojAssemblyReference.cache
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\obj\x86\Debug\JuegoSimple.csproj.CoreCompileInputs.cache
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\obj\x86\Debug\JuegoSimple.csproj.CopyComplete
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\obj\x86\Debug\JuegoSimple.exe
+D:\Trabajo\Docencia\UCEMA\programacion II\clases\Clase 11 - VJ y DESK\Bloque1-VJ-Parte2\Tp-Integrado\JuegoSimple\obj\x86\Debug\JuegoSimple.pdb
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\Content\Avion_IDLE.xnb
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\Content\avion_Piloto_de_2.xnb
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\Content\avion_Piloto_IDLE.xnb
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\Content\avion_Piloto_IZ_2.xnb
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\Content\bala.xnb
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\Content\enemigo_1.xnb
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\Content\Fuente.xnb
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\Content\mar.xnb
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\Content\pum_nave_chica.xnb
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\Content\pum_nave_Grande.xnb
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\JuegoSimple.exe
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\JuegoSimple.pdb
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\SharpDX.dll
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\SharpDX.xml
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\obj\x86\Debug\JuegoSimple.csprojAssemblyReference.cache
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\obj\x86\Debug\JuegoSimple.csproj.CoreCompileInputs.cache
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\obj\x86\Debug\JuegoSimple.csproj.CopyComplete
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\obj\x86\Debug\JuegoSimple.exe
+D:\Valentina\Descargas\JuegoSimple\JuegoSimple\obj\x86\Debug\JuegoSimple.pdb
